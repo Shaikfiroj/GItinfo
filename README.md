@@ -1,1 +1,1 @@
-# GItinfo
+# Gitinfo
